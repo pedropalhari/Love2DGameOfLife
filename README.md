@@ -1,0 +1,1 @@
+Jogo da vida, feito na engine LOVE2D, código em LUA.
